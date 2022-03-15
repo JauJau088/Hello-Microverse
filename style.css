@@ -1,8 +1,8 @@
 .header {
-    color: blueviolet;
+  color: blueviolet;
 }
 
 .header:hover {
-    cursor: pointer;
-    color: brown;
+  cursor: pointer;
+  color: brown;
 }
