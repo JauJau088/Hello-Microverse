@@ -11,27 +11,19 @@
 - Linters: Lighthouse, Webhint, Stylelint
 
 
-## Live Demo
-
-N/A
-
-
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
+The website will be able to run perfectly just by cloning this repository and put it on your local computer without the need of extra steps. However, in order to be able to do the linter tests on your local machine, you need to follow these simple steps:
 
 
 ### Prerequisites
 
-Code editor and terminal.
+- Node.js installed
+- npm installed
 
 ### Setup
 
-Have all necessary npm installations ready.
-
-### Install
-
-Follow linters installations [Here](https://github.com/microverseinc/linters-config/tree/master/html-css)
+The Linters that we are using here are Lighthouse, Webhint, and Stylelint. [This documentation here](https://github.com/microverseinc/linters-config/tree/master/html-css) shows you in great details how to set them up properly on you local machine.
 
 
 ## Authors
